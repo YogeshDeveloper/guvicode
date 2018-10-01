@@ -7,5 +7,6 @@ for i in range(a,b):
        # print(i)
         k.append(i)
 print(k)        
-
+for i in k:
+    print(i)
       
