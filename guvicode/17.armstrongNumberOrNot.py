@@ -10,4 +10,11 @@ if(n==s):
     print("yes")
 else:
     print("no")    
-    
+    #Input 1 
+    #371
+    #Output 1
+    #yes 
+#Input 2
+#45
+#Output 2
+#No
